@@ -1,1 +1,22 @@
+# System directories
+AppData/
+Cookies/
+Documents/My Music/
+Documents/My Pictures/
+Documents/My Videos/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Temporary Internet Files/
+
+# Project-specific
+venv/
+__pycache__/
+*.pyc
+ecommerce.db
+.env
 .pytest_cache/
